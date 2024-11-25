@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tastehub/static/css/main.1d583d42.css",
-    "main.js": "/tastehub/static/js/main.b2cf1f4b.js",
+    "main.js": "/tastehub/static/js/main.c561829f.js",
     "static/js/453.52cc5c01.chunk.js": "/tastehub/static/js/453.52cc5c01.chunk.js",
     "index.html": "/tastehub/index.html",
     "main.1d583d42.css.map": "/tastehub/static/css/main.1d583d42.css.map",
-    "main.b2cf1f4b.js.map": "/tastehub/static/js/main.b2cf1f4b.js.map",
+    "main.c561829f.js.map": "/tastehub/static/js/main.c561829f.js.map",
     "453.52cc5c01.chunk.js.map": "/tastehub/static/js/453.52cc5c01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d583d42.css",
-    "static/js/main.b2cf1f4b.js"
+    "static/js/main.c561829f.js"
   ]
 }
